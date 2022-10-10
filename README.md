@@ -1,4 +1,4 @@
-- Hello, My name is @peteballard
+- Hello, My name is Peter Ballard
 - I’m interested in all things LabVIEW, TestStand, Test Engineering, Real Time, Embedded Control, Artifical Intelligence, and Machine learning...
 
 <!---
